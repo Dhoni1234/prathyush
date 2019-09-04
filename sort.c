@@ -22,7 +22,6 @@ void sort_ascending(int** arr, int rows, int cols){
             }
         }
 }
-
 void sort_descending(int** arr, int rows, int cols){
     int i, j, k, l;
 
